@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2541,100:3A4A7A&height=180&section=header&text=Fashion%20%C3%97%20AI&fontColor=DDC9A0&fontSize=52&fontAlignY=38&desc=marketer%20%26%20MD%20who%20builds%20with%20AI&descAlignY=58&descSize=18" width="100%" alt="Fashion x AI" />
+<img src="banner.svg" width="100%" alt="Fashion x AI" />
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=20&duration=3000&pause=800&color=1C2541&center=true&vCenter=true&width=520&lines=Lookbook+%E2%86%92+Meta+Ads+%E2%86%92+AI+Workflow;Learning+to+build+my+own+tools;Vibe+coding+class+%F0%9F%A7%B5+2026" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans&weight=500&size=20&duration=3000&pause=800&color=C9A96E&center=true&vCenter=true&width=520&lines=Lookbook+%E2%86%92+Meta+Ads+%E2%86%92+AI+Workflow;Learning+to+build+my+own+tools;Vibe+coding+class+%F0%9F%A7%B5+2026" alt="typing" />
 
 </div>
 
@@ -54,6 +54,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3A4A7A,100:1C2541&height=100&section=footer" width="100%" alt="" />
+<img src="footer.svg" width="100%" alt="" />
 
 </div>

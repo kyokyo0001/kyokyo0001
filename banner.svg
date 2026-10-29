@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#1C2541"/><stop offset="1" stop-color="#3A4A7A"/></linearGradient></defs>
+  <path d="M0 0 H1200 V170 Q900 230 600 180 T0 190 Z" fill="url(#g)"/>
+  <text x="600" y="98" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="58" font-weight="700" fill="#DDC9A0">Fashion × AI</text>
+  <text x="600" y="140" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="20" letter-spacing="2" fill="#F3F4F6">marketer &amp; MD who builds with AI</text>
+</svg>
